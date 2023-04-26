@@ -3,7 +3,7 @@
  {"postID":3, "userID":3, "postTitle":"Hello Universe", "postdescription":"Hi, this is my first post", "postImage":"image link", "likes":170},
  {"postID":4, "userID":1, "postTitle":"My first post", "postdescription":"First post on app, Hello World", "postImage":"link to image here", "likes":3},
  {"postID":5, "userID":2, "postTitle":"Hello", "postdescription":"Hello everyone", "postImage":"img link", "likes":3},
- {"postID":6, "userID":3, "postTitle":"Hello Universe", "postdescription":"Hi, this is my first post", "postImage":"image link", "likes":3},
- {"greatJob: ":-)"}]
+ {"postID":6, "userID":3, "postTitle":"Hello Universe", "postdescription":"Hi, this is my first post", "postImage":"image link", "likes":3}
+]
 
 
